@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0704-binary-search) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -103,7 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
