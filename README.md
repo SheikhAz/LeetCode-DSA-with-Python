@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Stack
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -139,13 +141,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
