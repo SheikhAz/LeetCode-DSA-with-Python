@@ -118,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
