@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
