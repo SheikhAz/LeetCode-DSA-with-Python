@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
@@ -239,4 +240,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
