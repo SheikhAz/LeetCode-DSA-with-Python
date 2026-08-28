@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0057-insert-interval) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 ## Design
 |  |
