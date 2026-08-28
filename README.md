@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
