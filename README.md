@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
