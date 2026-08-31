@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0338-counting-bits) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 ## Design
 |  |
 | ------- |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0052-n-queens-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
