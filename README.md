@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
+| [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
