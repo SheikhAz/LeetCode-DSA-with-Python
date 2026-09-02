@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0643-maximum-average-subarray-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -331,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
