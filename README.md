@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0063-unique-paths-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0064-minimum-path-sum) |
