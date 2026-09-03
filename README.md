@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Design
 |  |
 | ------- |
