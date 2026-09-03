@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0152-maximum-product-subarray) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
