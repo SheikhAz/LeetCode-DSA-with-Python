@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0337-house-robber-iii) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
@@ -379,4 +381,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0518-coin-change-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
