@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3904-smallest-stable-index-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3904-smallest-stable-index-ii) |
 ## Depth-First Search
 |  |
 | ------- |
