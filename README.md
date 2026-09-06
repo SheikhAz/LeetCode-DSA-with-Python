@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
