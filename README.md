@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0875-koko-eating-bananas](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -247,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
