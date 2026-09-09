@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3904-smallest-stable-index-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Linked List
 |  |
 | ------- |
@@ -317,11 +320,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -436,4 +441,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
