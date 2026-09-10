@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0238-product-of-array-except-self) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## DP on Trees
@@ -467,4 +471,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
