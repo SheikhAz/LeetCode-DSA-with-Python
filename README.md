@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -348,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 ## Math
 |  |
@@ -447,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tournament Sort
 |  |
