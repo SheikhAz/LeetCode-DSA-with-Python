@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
