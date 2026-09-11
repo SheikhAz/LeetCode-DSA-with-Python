@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0337-house-robber-iii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0304-range-sum-query-2d-immutable) |
 ## Bit Manipulation
@@ -471,5 +474,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
