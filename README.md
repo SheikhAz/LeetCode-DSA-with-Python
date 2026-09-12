@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0912-sort-an-array) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
@@ -507,9 +511,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
