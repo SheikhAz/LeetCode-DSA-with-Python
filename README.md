@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0143-reorder-list) |
