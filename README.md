@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0051-n-queens) |
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
