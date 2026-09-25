@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1425-constrained-subsequence-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1425-constrained-subsequence-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3708-longest-fibonacci-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3708-longest-fibonacci-subarray) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Design
 |  |
@@ -557,4 +559,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
