@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0097-interleaving-string) |
