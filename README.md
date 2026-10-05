@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0054-spiral-matrix) |
 ## Bidirectional Search
 |  |
