@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0097-interleaving-string) |
