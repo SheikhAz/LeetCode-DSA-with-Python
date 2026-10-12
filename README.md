@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0300-longest-increasing-subsequence) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -623,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
