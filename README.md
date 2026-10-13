@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0189-rotate-array) |
