@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0143-reorder-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0435-non-overlapping-intervals) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -634,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
