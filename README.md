@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0198-house-robber) |
