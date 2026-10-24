@@ -1,21 +1,20 @@
-class Solution(object):
-    def trap(self, height):
+class Solution:
+    def trap(self, height: list[int]) -> int:
         L = len(height)
-        maxleft = [0]*L
-        maxleft[0] = height[0]
-        for i in range (1,L):
-            maxleft[i] = max(maxleft[i-1],height[i])
+        maxLeft = [0] * L
+        maxLeft[0] = height[0]
+
+        for i in range(1,L):
+            maxLeft[i] = max(height[i],maxLeft[i - 1])
         
-        maxright = [0]*L
-        maxright[-1] = height[-1]
-        for i in range (L-2,-1,-1):
-            maxright[i] = max(maxright[i+1],height[i])
+        maxRight = [0] * L
+        maxRight[-1] = height[-1]
+
+        for i in range(L - 2,-1,-1):
+            maxRight[i] = max(maxRight[i + 1],height[i])
         
         sum = 0
-        for i in range(0,L):
-            H = min(maxleft[i],maxright[i]) - height[i]
+        for i in range(L):
+            H = min(maxRight[i],maxLeft[i]) - height[i]
             sum += H
-
         return sum
-
-        
