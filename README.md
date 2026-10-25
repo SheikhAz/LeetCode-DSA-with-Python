@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0134-gas-station) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0503-next-greater-element-ii) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0739-daily-temperatures) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0221-maximal-square) |
