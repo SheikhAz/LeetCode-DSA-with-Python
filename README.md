@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0136-single-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0146-lru-cache) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SheikhAz/LeetCode-DSA-with-Python/tree/master/0684-redundant-connection) |
